@@ -17,11 +17,11 @@
                         "h_alignment": "left",
                         "rows": [
                             [
-                                "Toggle1",
-                                "Toggle2",
-                                "Toggle3",
-                                "Toggle4",
-                                "Toggle5",
+                                "toggle1",
+                                "toggle2",
+                                "toggle3",
+                                "toggle4",
+                                "toggle5",
                                 "toggle6"
 
                             ],
