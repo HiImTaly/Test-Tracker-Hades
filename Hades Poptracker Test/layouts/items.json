@@ -27,7 +27,8 @@
                             ],
                             [
                                 "consumable",
-                                "progressive_toggle"
+                                "progressive_toggle",
+                                "Sword" 
                             ]
                         ]
                     }
