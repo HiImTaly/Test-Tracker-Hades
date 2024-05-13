@@ -3,37 +3,37 @@
     {
         "name": "Sword",
         "type": "toggle",
-        "img": "images/items/toggle.png",
+        "img": "images/items/Sword.png",
         "codes": "toggle"
     },
     {
         "name": "Spear",
         "type": "toggle",
-        "img": "images/items/toggle.png",
+        "img": "images/items/Spear.png",
         "codes": "toggle"
     },
     {
         "name": "Shield",
         "type": "toggle",
-        "img": "images/items/toggle.png",
+        "img": "images/items/Shield.png",
         "codes": "toggle"
     },
     {
         "name": "Bow",
         "type": "toggle",
-        "img": "images/items/toggle.png",
+        "img": "images/items/Bow.png",
         "codes": "toggle"
     },
     {
         "name": "Fist",
         "type": "toggle",
-        "img": "images/items/toggle.png",
+        "img": "images/items/Fist.png",
         "codes": "toggle"
     },
     {
         "name": "Gun",
         "type": "toggle",
-        "img": "images/items/toggle.png",
+        "img": "images/items/Gun.png",
         "codes": "toggle"
     },
     {
