@@ -1,7 +1,37 @@
 //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
 [
     {
-        "name": "Toggle",
+        "name": "Sword",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "toggle"
+    },
+    {
+        "name": "Spear",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "toggle"
+    },
+    {
+        "name": "Shield",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "toggle"
+    },
+    {
+        "name": "Bow",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "toggle"
+    },
+    {
+        "name": "Fist",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "toggle"
+    },
+    {
+        "name": "Gun",
         "type": "toggle",
         "img": "images/items/toggle.png",
         "codes": "toggle"
