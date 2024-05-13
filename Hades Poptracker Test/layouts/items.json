@@ -17,18 +17,18 @@
                         "h_alignment": "left",
                         "rows": [
                             [
-                                "Sword",
-                                "Spear",
-                                "Shield",
-                                "Bow",
-                                "Fist",
-                                "Gun"
+                                "Toggle1",
+                                "Toggle2",
+                                "Toggle3",
+                                "Toggle4",
+                                "Toggle5",
+                                "toggle6"
 
                             ],
                             [
                                 "consumable",
-                                "progressive_toggle",
-                                "Sword" 
+                                "progressive_toggle"
+                            
                             ]
                         ]
                     }
