@@ -27,7 +27,13 @@
                             ],
                             [
                                 "consumable",
-                                "progressive_toggle"
+                                "progressive_toggle",
+                                "toggle1",
+                                "toggle2",
+                                "toggle3",
+                                "toggle4",
+                                "toggle5",
+                                "toggle6"
                             
                             ]
                         ]
